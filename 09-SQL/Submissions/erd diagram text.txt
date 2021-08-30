@@ -1,0 +1,41 @@
+Employee
+-
+emp_no int PK
+emp_title varchar(10) FK >- titles.title_id
+birth_date datetime
+firt_name varchar(50)
+last_name varchar(50)
+sex varchar(5)
+hire_date datetime
+last_updated datetime
+
+department
+-
+dept_no varchar(5) PK
+dept_name varchar(50)
+last_updated datetime
+
+dept_emp
+-
+emp_no int FK >- Employee.emp_no PK
+dept_no varchar(5) FK >- department.dept_no PK
+last_updated datetime
+
+
+dept_manager
+-
+dept_no(5) varchar FK >- department.dept_no
+emp_no int FK >- Employee.emp_no
+last_updated datetime
+
+salaries
+-
+emp_no int FK >- Employee.emp_no PK
+salary int
+last_updated datetime
+
+titles
+-
+title_id varchar(10) PK
+title varchar(20)
+last_updated datetime
