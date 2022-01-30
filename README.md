@@ -10,8 +10,9 @@ The goal of this assignment was to use VBA to analyze stock market data from a d
 
 ## 03-Python
 The goal of this assignment was to write a Python script for analyzing the financial records of a company and the results of an election from given datasets, PyBank and PyPoll
-PyBank-This submission needed to include the total months of data, the net total of profit/loss, the average changes in profit and loss, and the greatest increase in profits and decrease in loss. 
-PyPoll-This submission needed to include the total number of votes cast, the total number of votes for each candidate and the winner of the election based on the data. 
+### PyBank-This submission needed to include the total months of data, the net total of profit/loss, the average changes in profit and loss, and the greatest increase in profits and decrease in loss. 
+### PyPoll-This submission needed to include the total number of votes cast, the total number of votes for each candidate and the winner of the election based on the data. 
+
 Both submissions needed to have an exported text file with the results shown. The completed assignment can be found here. Used VS Code for this assignment  https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/03-Python/Submissions 
 
 ## 04-Pandas
