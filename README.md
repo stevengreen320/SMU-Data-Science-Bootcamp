@@ -12,12 +12,14 @@ The goal of this assignment was to use VBA to analyze stock market data from a d
 The goal of this assignment was to write a Python script for analyzing the financial records of a company and the results of an election from given datasets, PyBank and PyPoll
 
 PyBank
-This submission needed to include the total months of data, the net total of profit/loss, the average changes in profit and loss, and the greatest increase in profits and decrease in loss. 
+* This submission needed to include the total months of data, the net total of profit/loss, the average changes in profit and loss, and the greatest increase in profits and decrease in loss. 
 
 PyPoll
-This submission needed to include the total number of votes cast, the total number of votes for each candidate and the winner of the election based on the data. 
+* This submission needed to include the total number of votes cast, the total number of votes for each candidate and the winner of the election based on the data. 
 
-Both submissions needed to have an exported text file with the results shown. The completed assignment can be found here. Used VS Code for this assignment  https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/03-Python/Submissions 
+Both submissions needed to have an exported text file with the results shown. The completed assignment can be found here. Used VS Code for this assignment 
+
+https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/03-Python/Submissions 
 
 ## 04-Pandas
 The goal of this assignment was to create an analysis of a video game information from a given dataset. Looking at it from the viewpoint of a Lead Analyst for company that makes the game. The requirements were to use the Pandas library to calculate the following
