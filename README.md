@@ -118,17 +118,17 @@ The goal of this assignment was to use SQL to analyze given data.  Instructions 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 ## 10-Advanced Data Storage and Retrieval
-On this assignment I used my knowledge of SQLalchemy to query a database to get the average rainfall of Hawaii. Link is here https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/10-Advanced-Data-Storage-and-Retrieval/Submissions 
+On this assignment I used my knowledge of SQLalchemy to query a database to get the average rainfall of Hawaii in different areas and at different times. Link is here https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/10-Advanced-Data-Storage-and-Retrieval/Submissions 
 
 ## 12-Web Scraping and Document Retrieval 
-ON this assignment I used my knowledge of web scraping to scrape a website. Link is here https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/12-Web-Scraping-and-Document-Databases/Submissions 
+ON this assignment I used my knowledge of web scraping to scrape a website. I scraped table data, pictures, and information to create another site.  Link is here https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/12-Web-Scraping-and-Document-Databases/Submissions 
 
 
 ## 14-Interactive Web Visualizations
-On this assignment I used Plotly to create an interactive dashboard of some data of a truly disgusting dataset Link is here https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/14-Interactive-Web-Visualizations/Submissions 
+On this assignment I used Plotly to create an interactive dashboard of some data of a belly button biodiversity dataset. The data were survey results of the frequency that participants wash their belly button.  Link is here https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/14-Interactive-Web-Visualizations/Submissions 
 
 ## 18-Tableau
-On this assignment I used Tableau to analyze bike data. Link is here https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/18-Tableau/Submissions 
+On this assignment I used Tableau to analyze bike data in NYC for the Citibike program. Link is here https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/18-Tableau/Submissions 
  and here
 https://public.tableau.com/app/profile/steven.green4340/viz/TableauHomework_16358103854900/RidershipStory 
 
@@ -141,6 +141,6 @@ On this assignment, I used unsupervised machine learning to see if cryptocurrenc
 https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/20-Unsupervised-Learning/Submissions 
 
 ## 21-Deep Learning
-On this assignment, I used deep learning to see if I could train a model to see if charity could get funding. Link is here https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/21-Deep-Learning/Submissions 
+On this assignment, I used deep learning to see if I could train a model to see if charity could get funding and the threshold was to be 75% accurate with my learning. On this assignment, I learned about different optimizer algorithms. Link is here https://github.com/stevengreen320/SMU_June2021_Bootcamp_Homework/tree/main/21-Deep-Learning/Submissions 
 
 
